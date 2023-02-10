@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/febrihidayan-1ED760?style=flat&labelColor=white&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/31g23yh3x3rrul6guhw7brnax3ku/)
 
 
-Welcome to my profile, I'm a student, coder, and full time worker at Dienst Digital and Omindtech. I'm a full-stack software developer having 3 years experience with working as a software engineer.
+Welcome to my profile, I'm a student, coder, and full time remote work from home. I'm a full-stack software developer having 3 years experience with working as a software engineer.
 
 ## Talking About Personal
 - 🛠 I'm currently working with Golang, Laravel, Vue.js, MongoDB, PostgreSQL, Docker, etc.
