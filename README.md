@@ -22,10 +22,8 @@ Welcome to my profile, I'm a student, coder, and full time remote work from home
 
 ## My DevSetup
 
-![Acer](https://img.shields.io/badge/Acer-555555.svg?&style=flat-square&logo=Acer&logoColor=83b81a)
-![Windows](https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6)
-![WSL Ubuntu](https://img.shields.io/badge/WSL-Ubuntu-555555.svg?&style=flat-square&logo=ubuntu&logoColor=E95420)
-![Chrome](https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C)
+![Macbook](https://img.shields.io/badge/Macbook-555555.svg?&style=flat-square&logo=apple&logoColor=A2AAAD)
+![Chrome](https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=1a73e8)
 ![VS Code](https://img.shields.io/badge/VS-Code-555555.svg?&style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Terminal](https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760)
