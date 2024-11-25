@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/febrihidayan-1ED760?style=flat&labelColor=white&logo=spotify&logoColor=1ED760)](https://open.spotify.com/user/31g23yh3x3rrul6guhw7brnax3ku/)
 
 
-Welcome to my profile, I'm a student, coder, and full time remote work from home. I'm a full-stack software developer having 3 years experience with working as a software engineer.
+Welcome to my profile, I'm a student, coder, and full time remote work from home. I'm a full-stack software developer having 6 years experience with working as a software engineer.
 
 ## Talking About Personal
 - 🛠 I'm currently working with Golang, Laravel, Vue.js, MongoDB, PostgreSQL, Docker, etc.
@@ -34,7 +34,7 @@ Welcome to my profile, I'm a student, coder, and full time remote work from home
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg" alt="golang" title="golang" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" alt="php" title="php" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/composer/composer-original.svg" alt="composer" title="composer" width="25" height="25" /></code>
-<code><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" alt="laravel" title="laravel" width="25" height="25" /></code>
+<code><img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-original.svg" alt="laravel" title="laravel" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" title="nodejs" width="25" height="25" /></code>
@@ -45,10 +45,10 @@ Welcome to my profile, I'm a student, coder, and full time remote work from home
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/yarn/yarn-original.svg" alt="yarn" title="yarn" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="sass" width="25" height="25" /></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="bulma" title="bulma" width="25" height="25" /></code>
-<code><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" title="tailwindcss" width="25" height="25" /></code>
+<code><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" title="tailwindcss" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="mongodb" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" title="postgresql" width="25" height="25" /></code>
-<code><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="mysql" title="mysql" width="25" height="25" /></code>
+<code><img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" alt="mysql" title="mysql" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" alt="docker" title="docker" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" alt="nginx" title="nginx" width="25" height="25" /></code>
 <code><img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-plain.svg" alt="heroku" title="heroku" width="25" height="25" /></code>
